@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Zombie Sim">
+</Property><Property Name="Solution File" Value="C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Zombie Sim.sln">
+</Property><Property Name="User Options File" Value="C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Zombie Sim.suo">
+</Property><Property Name="Date" Value="11 décembre 2014">
+</Property><Property Name="Time" Value="16:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Zombie Sim.sln" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Zombie Sim.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Zombie Sim.suo" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Zombie Sim.suo">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Zombie Sim.csproj" Description="Project file successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Zombie Sim.csproj">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Zombie Sim.csproj.user" Description="Project user file successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Zombie Sim.csproj.user">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Building.cs" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Building.cs">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="frmControls.cs" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\frmControls.cs">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="frmControls.Designer.cs" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\frmControls.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="frmSim.cs" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\frmSim.cs">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="frmSim.Designer.cs" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\frmSim.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Person.cs" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Person.cs">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Program.cs" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Sentient.cs" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Sentient.cs">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Zombie.cs" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Zombie.cs">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Zombie Sim_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Zombie Sim_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="frmControls.resx" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\frmControls.resx">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="frmSim.resx" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\frmSim.resx">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Properties\app.manifest" Description="File successfully backed up as C:\Users\REJEAN\Desktop\ZombieSimulator\ZombieSim-master\Backup\Properties\app.manifest">
+</Event><Event ErrorLevel="1" Project="Zombie Sim" Source="Zombie Sim.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Zombie Sim.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Zombie Sim" Source="Zombie Sim.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Zombie Sim.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Zombie Sim.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Zombie Sim" Source="Zombie Sim.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
